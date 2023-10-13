@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.deps.json
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.dll
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.pdb
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfo.cs
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.dll
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\refint\SingleLinkedList.dll
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.pdb
+C:\Users\Asus\Desktop\StackImplementation\SingleLinkedList\obj\Debug\net7.0\ref\SingleLinkedList.dll

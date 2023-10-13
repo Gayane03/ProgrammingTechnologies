@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.AssemblyInfo.cs
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\bin\Debug\net7.0\StackImplementation.exe
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\bin\Debug\net7.0\StackImplementation.deps.json
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\bin\Debug\net7.0\StackImplementation.runtimeconfig.json
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\bin\Debug\net7.0\StackImplementation.dll
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\bin\Debug\net7.0\StackImplementation.pdb
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.dll
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.pdb
+C:\Users\Asus\Desktop\StackImplementation\StackImplementation\obj\Debug\net7.0\StackImplementation.genruntimeconfig.cache
