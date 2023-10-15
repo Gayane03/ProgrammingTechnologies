@@ -1,5 +1,6 @@
 ﻿using StackImplementation;
 using System.Collections;
+using System.ComponentModel.DataAnnotations;
 using System.Runtime.CompilerServices;
 
 public class StackLinkedList :IStackItems
@@ -11,15 +12,11 @@ public class StackLinkedList :IStackItems
     public object Current
     {
         get
-        {
-            try
-            {
-                return tempNode.data;
-            }
-            finally
-            {
-                tempNode=tempNode.next;
-            }         
+        {            
+              var returnItem = tempNode.data;
+              tempNode = tempNode.next;
+
+               return returnItem; 
         }
     }
     public IStackItems Push(object data)
@@ -82,15 +79,10 @@ public class StackLinkedList :IStackItems
 
     public object Peek()
     {
-        try
-        {
-            return start.data;
-        }
-        finally
-        {
-            Pop();
-        }
-
+        var peekItem = start.data;
+        Pop();
+            
+        return peekItem;       
     }
 }
 
