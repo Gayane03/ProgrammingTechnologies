@@ -1,0 +1,14 @@
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\bin\Debug\net7.0\SpiralArray.exe
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\bin\Debug\net7.0\SpiralArray.deps.json
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\bin\Debug\net7.0\SpiralArray.runtimeconfig.json
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\bin\Debug\net7.0\SpiralArray.dll
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\bin\Debug\net7.0\SpiralArray.pdb
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.AssemblyInfoInputs.cache
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.AssemblyInfo.cs
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.csproj.CoreCompileInputs.cache
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.dll
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\refint\SpiralArray.dll
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.pdb
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\SpiralArray.genruntimeconfig.cache
+C:\MyGit\ProgrammingTechnologies\SpiralArray\SpiralArray\obj\Debug\net7.0\ref\SpiralArray.dll
